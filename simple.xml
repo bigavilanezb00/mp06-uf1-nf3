@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MUSEUMS>
+    <MUSEUM children_allowed="true">
+        <CIUTAT>Santa Coloma de Gramanete, Spain</CIUTAT>
+        <FROM>2022-02-02</FROM>
+        <MUSEUM_NAME>Simple Museum</MUSEUM_NAME>
+    </MUSEUM>
+    <MUSEUM children_allowed="false">
+        <CIUTAT>Barcelona, Spain</CIUTAT>
+        <MUSEUM_NAME>Another Simple Museum</MUSEUM_NAME>
+    </MUSEUM>
+</MUSEUMS>
